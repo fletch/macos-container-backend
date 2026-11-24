@@ -6,7 +6,7 @@
 
 **Repo home.** `~/projects/macos-container-backend/` (this directory). Later: optional PR to `NousResearch/hermes-official-plugins`.
 
-**Local facts.** Apple `container` 1.7.1 at `/opt/homebrew/bin/container`. Host is macOS 27.2 (Apple silicon). `container system` was started 2026-11-24 for Phase 0 and left running. JSON fixtures: `tests/fixtures/` (see `SCHEMA.md`).
+**Local facts.** Apple `container` 1.7.1 at `/opt/homebrew/bin/container`. Host is macOS 27.2 (Apple silicon). `container system` was started 2026-11-24 for Phase 0 and left running. JSON fixtures: `tests/fixtures/` (see `SCHEMA.md`). GitHub: `fletch/macos-container-backend` (3a local done; 3b push blocked — PAT cannot `createRepository`).
 
 ---
 

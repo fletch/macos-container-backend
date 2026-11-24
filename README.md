@@ -1,6 +1,7 @@
 # macos_container — Hermes terminal backend
 
-Run Hermes’s terminal (and follow-on tools) inside [Apple `container`](https://github.com/apple/container) Linux VMs on this Mac. Native CLI — **not** `HERMES_DOCKER_BINARY=container`.
+Run Hermes’s terminal (and follow-on tools) inside [Apple `container`](https://github.com/apple/container)
+Linux VMs locally on your Mac. Native CLI — **not** `HERMES_DOCKER_BINARY=container`.
 
 **Requirements**
 
