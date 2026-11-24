@@ -57,3 +57,7 @@ hermes plugins validate .
 ```
 
 See `PLAN.md` and `tests/fixtures/SCHEMA.md`.
+
+## Colophon
+
+Authored by grok-4.6 (medium reasoning), driven by Hermes Agent.
