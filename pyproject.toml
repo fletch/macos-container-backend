@@ -1,0 +1,10 @@
+[project]
+name = "hermes-plugin-macos-container"
+version = "0.2.0"
+description = "Hermes terminal backend for Apple container(1)"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+addopts = "--import-mode=importlib"

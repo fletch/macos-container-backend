@@ -1,0 +1,13 @@
+name: macos_container
+label: macOS Container
+kind: backend
+version: 0.2.0
+author: Fletch
+homepage: https://github.com/fletch/macos-container-backend
+description: >
+  Terminal backend that runs Hermes tools inside Apple container(1)
+  Linux VMs (Virtualization.framework). Select with
+  terminal.backend: macos_container.
+requires_hermes: ">=0.21.6"
+provides_tools: []
+provides_hooks: []
